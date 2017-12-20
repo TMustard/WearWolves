@@ -21,32 +21,32 @@ mainOutfits = [{
 }, {
     occasion: "Hipster",
     image:"",
-    outfitDescription: "",
+    outfitDescription: "Hipster Werewolves are often defined by what they wear (and what they don’t), and what they wear is often far removed from what the rest of us in the civilized world would choose to put on. But, in the midst of terrible cut-off tees, too-short shorts, and potentially offensive head dresses, there are a few bright spots.  Wolves these days going for the hipster look are modeling themselves after WerePharrell, sporting caps, stonewash jeans, vests and high top sneakers over their paws.",
 }],
 
 accessories = [{
     occasion: "Opera",
     image: "",
-    accDescription: [{}]
+    accDescription: ["Opera spectacles","handkerchief", "'Playbill'", "Spats"]
 }, {
     occasion: "Wedding",
     image: "",
-    accDescription: [{}]
+    accDescription: ["Cigar", "flask", "Lyft", "Wingtips"]
 }, {
     occasion: "Golf",
     image: "",
-    accDescription: [{}]
+    accDescription: ["Ivy hat", "Binoculars", "divot tool","golf shoes"]
 }, {
     occasion: "Phish Concert",
     image: "",
-    accDescription: [{}]
+    accDescription: ["Sheet of acid", "dreadlocks", "hemp bracelets", "Birkenstocks"]
 }, {
     occasion: "First Date",
     image: "",
-    accDescription: [{}]
+    accDescription: ["Bouquet of Flowers", "chocolates", "hearts", "Clark's desert boots"]
 }, {
     occasion: "Hipster",
     image: "",
-    accDescription: [{}]
+    accDescription: ["Vape Pen", "Avacado Toast", "mustache", "Tom's shoes"]
 }
 ]
