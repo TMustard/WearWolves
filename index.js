@@ -1,7 +1,7 @@
 const express = require('express');
 const app = express();
 const port = process.env.PORT || 3000;
-const data = require('./data/data.js');
+const data = require('./data.js');
 const cors = require('cors');
 const updatedData = [];
 const bodyParser = require('body-parser');
