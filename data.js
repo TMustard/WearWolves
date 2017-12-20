@@ -5,15 +5,15 @@ mainOutfits = [{
 }, {
     occasion: "Wedding",
     image: "",
-    outfitDescription: "Wedding: Wedding season is coming and with it, piles of invitations that should clue you in on what to wear to your werepals' upcoming nuptials.  But if you're the type of wolf used to putting on his "wedding suit" no matter who's getting married, receiving a suggestion to show up in your best "Beach Formal" gear can be confusing. And, let's be honest, annoying. A gray or navy suit is going to be your best bet here. Pair it with a proper dress shirt (no button-down collars, please) and solid or subtle patterned tie to keep things on the dressier side."
+    outfitDescription: "Wedding: Wedding season is coming and with it, piles of invitations that should clue you in on what to wear to your werepals' upcoming nuptials.  But if you're the type of Wolf used to putting on his 'wedding suit' no matter who's getting married, receiving a suggestion to show up in your best 'Beach Formal' gear can be confusing. And, let's be honest, annoying. A gray or navy suit is going to be your best bet here. Pair it with a proper dress shirt (no button-down collars, please) and solid or subtle patterned tie to keep things on the dressier side."
 }, {
     occasion: "Golf",
     image:"",
-    outfitDescription: "In recent years, many Werewolf clothing labels have became focused on functionality, and forgot that golf, at its core, is a sport that has always valued style. Walter Hagen? Dandy. Ben Hogan? Stoic. Arnold Palmer? Sex symbol. All those wolves wore classic sportswear on the course, and as a wolf on the go, you should do the same.  If you're going to tee it up, you needn't look like you're running a marathon or going to space, you simply need to stick to a a few basics.  A pastel polo and a pair of slim chinos will be perfect whether you’re playing or spectating.",
+    outfitDescription: "In recent years, many WereWolf clothing labels have became focused on functionality, and forgot that golf, at its core, is a sport that has always valued style. Walter Hagen? Dandy. Ben Hogan? Stoic. Arnold Palmer? Sex symbol. All those wolves wore classic sportswear on the course, and as a Wolf on the go, you should do the same.  If you're going to tee it up, you needn't look like you're running a marathon or going to space, you simply need to stick to a a few basics.  A pastel polo and a pair of slim chinos will be perfect whether you’re playing or spectating.",
 }, {
     occasion: "Phish Concert",
     image:"",
-    outfitDescription: ""
+    outfitDescription: "WereWolf 'phans' have more money than the broke, unwashed, travelin’ light hippie wolves they’re often made out to be.  They also care more about style, and one joy of phandom is getting the inside joke when you see fellow Weres decked out in painstakingly designed bootleg tees.  Those are actually just the beginning.  As with the band’s setlists, style at a Phish show is all over the place. But it’s rarely ever boring.  Fit will always be your first priority, but this is the time to get loud with your color choices and combinations.  That outer-space themed hoodie that you never thought went with your fur color? Its time to bust it out.  Worried that your pants don’t match? Ask the Wolf in front of you with the dilated pupils if he cares..."
 }, {
     occasion: "First Date",
     image: "",
